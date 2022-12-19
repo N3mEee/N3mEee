@@ -1,5 +1,5 @@
 - 👋 Hello, I'm @N3mEee
-- 👀 My passions are Web Development and Data Science
+- 👀 My passions are Web Development
 - 🌱 I'm currently studying HTML, CSS, and JS at The Odin Project
 - 💞️ I'm looking for collaboration opportunities
 - 📫 Feel free to contact me here!
